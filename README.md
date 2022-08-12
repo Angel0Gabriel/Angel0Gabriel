@@ -27,8 +27,7 @@
   <a href="https://github.com/Angel0Gabriel?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:angelobielmoreira@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-  ![Snake animation](https://github.com/Angel0Gabriel/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Angel0Gabriel/Angel0Gabriel/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  
   
