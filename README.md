@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World! 🤓👨‍💻
 
 - 🌱 I’m currently learning Web Development and Mobile App Development
 - 📫 How to reach me: angelobielmoreira@hotmail.com
