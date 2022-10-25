@@ -1,6 +1,6 @@
 # Hello World! 🤓👨‍💻
 
-- 🌱 I’m currently learning Web Development and Mobile App Development
+- 🌱 I’m a Front-End Developer
 - 📫 How to reach me: angelobielmoreira@hotmail.com
 
 ## “O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática.”
@@ -14,7 +14,7 @@
   <img align="center" alt="Angelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Angelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Angelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Angelo-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Angelo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Angelo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Angelo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="right" alt="Angelo-pic" height="150" style="border-radius: 50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB99lPGMECoTCwkXdI_HX6RF8XLk_XoHHbng&usqp=CAU">
