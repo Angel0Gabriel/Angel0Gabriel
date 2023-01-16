@@ -5,7 +5,7 @@
 
 ## “O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática.”
 
-<div align="flex">
+<div align="flex" style="margin-bottom: 10px">
   <a href="https://github.com/Angel0Gabriel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angel0Gabriel&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel0Gabriel&layout=compact&langs_count=7&theme=highcontrast"/>
