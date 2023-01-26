@@ -28,7 +28,6 @@
   <a href="https://www.instagram.com/angel0_gabriel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:angelobielmoreira@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-  ![Snake animation](https://github.com/Angel0Gabriel/Angel0Gabriel/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
