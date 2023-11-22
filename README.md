@@ -1,6 +1,6 @@
 # Hello World! 🤓👨‍💻
 
-- 🌱 I’m a Front-End Developer
+- 🌱 I’m a Software Developer
 - 📫 How to reach me: angelobielmoreira@hotmail.com
 
 ## “O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática.”
