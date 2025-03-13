@@ -1,4 +1,4 @@
-# Hello World! 🤓👨‍💻
+# Hello World!👨‍💻
 
 - 🌱 I’m a Software Developer
 - 📫 How to reach me: angelobielmoreira@hotmail.com
