@@ -1,6 +1,6 @@
 # Hello World!👨‍💻
 
-- 🌱 I’m a Software Developer
+- 🌱 I’m a Full-Stack Software Engineer
 - 📫 How to reach me: angelobielmoreira@hotmail.com
 
 ## “O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática.”
