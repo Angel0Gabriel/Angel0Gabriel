@@ -1,6 +1,8 @@
-# Hi, I'm Angelo Costa
+<h1 align="center">Hi, I'm Angelo Costa</h1>
 
-Full-stack Software Engineer from Fortaleza, Brazil, focused on building fast, maintainable web applications with **React**, **Next.js**, **TypeScript**, **Node.js**, **NestJS** and **PostgreSQL**.
+<p align="center">
+  <strong>Full-stack Software Engineer</strong> from Fortaleza, Brazil, focused on building fast, maintainable web applications with <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Node.js</strong>, <strong>NestJS</strong> and <strong>PostgreSQL</strong>.
+</p>
 
 I have 4+ years of experience across frontend-heavy and full-stack roles, working on analytics dashboards, Legal Ops automation, reusable component systems, REST APIs, authentication, database optimization and CI/CD workflows.
 
@@ -8,17 +10,17 @@ I have 4+ years of experience across frontend-heavy and full-stack roles, workin
 
 ## Tech Stack
 
-<div style="display: flex"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ## What I Work With
 
@@ -60,19 +62,24 @@ Component system exploring reusable UI foundations such as text, headings, butto
 - Migrated analytics dashboards from Grafana to a proprietary React/TypeScript system, reducing load times by **40%**.
 - Built an automated image annotation workflow that reduced manual analysis time by **60%**.
 
-## GitHub Stats
+## GitHub
 
-<div align="flex">
-  <a href="https://github.com/Angel0Gabriel">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Angel0Gabriel&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel0Gabriel&layout=compact&langs_count=7&theme=highcontrast"/>
+<p align="center">
+  <a href="https://github.com/Angel0Gabriel?tab=repositories">
+    <img src="https://img.shields.io/badge/Public_Projects-Explore-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore public projects">
   </a>
-</div>
+  <a href="https://github.com/Angel0Gabriel/PonceTechFullStack">
+    <img src="https://img.shields.io/badge/Featured-PonceTechFullStack-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="PonceTechFullStack">
+  </a>
+  <a href="https://github.com/Angel0Gabriel/NestClean">
+    <img src="https://img.shields.io/badge/Featured-NestClean-E0234E?style=for-the-badge&logo=github&logoColor=white" alt="NestClean">
+  </a>
+</p>
 
 ## Contact
 
-<div>
+<p align="center">
   <a href="https://www.linkedin.com/in/angelocostadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/Angel0Gabriel?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="mailto:angelobielmoreira@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+</p>
