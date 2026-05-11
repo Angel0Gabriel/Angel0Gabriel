@@ -1,107 +1,78 @@
-# Hello World! I'm Angelo Gabriel 👨‍💻
+# Hi, I'm Angelo Costa
 
-I'm a **Full-Stack Software Engineer** from Fortaleza, Brazil, with experience building modern web applications, automation workflows, dashboards, REST integrations, and data-driven systems.
+Full-stack Software Engineer from Fortaleza, Brazil, focused on building fast, maintainable web applications with **React**, **Next.js**, **TypeScript**, **Node.js**, **NestJS** and **PostgreSQL**.
 
-- 💼 Currently working as a Full-Stack Software Engineer at Docato
-- 🎓 Bachelor's degree in Computer Science from the University of Fortaleza (Unifor)
-- 🚀 Working with React, Next.js, Node.js, NestJS, TypeScript, PostgreSQL, MongoDB, and automation
-- 🌎 Native Portuguese speaker with upper-intermediate English proficiency
-- 📫 Contact: [angelobielmoreira@hotmail.com](mailto:angelobielmoreira@hotmail.com)
+I have 4+ years of experience across frontend-heavy and full-stack roles, working on analytics dashboards, Legal Ops automation, reusable component systems, REST APIs, authentication, database optimization and CI/CD workflows.
 
-> "The gap between theory and practice is not as wide as theory makes it seem in practice."
+> "The gap between theory and practice is not as big in theory as it is in practice."
 
----
+## Tech Stack
 
-## About me
+<div style="display: flex"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 
-I have experience building performant interfaces, secure APIs, scalable full-stack architectures, and continuous delivery pipelines. I enjoy working close to the product, understanding the real problem before turning requirements into code.
+## What I Work With
 
-Over the past few years, I have worked with financial and legal automation, analytics dashboards, large-scale data processing, reusable component systems, and performance optimization in React/Next.js applications.
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Shadcn/UI, Styled-components, HTML, CSS  
+**Backend:** Node.js, NestJS, REST APIs, Swagger, JWT, RBAC, Prisma ORM, TypeORM, Mongoose  
+**Databases:** PostgreSQL, MongoDB, SQL optimization, data modeling  
+**Testing and Automation:** Jest, React Testing Library, Playwright  
+**Cloud and Tooling:** Docker, Firebase, Vercel, Git, CI/CD  
 
----
+## Featured Projects
 
-## Experience
+### [PonceTechFullStack](https://github.com/Angel0Gabriel/PonceTechFullStack)
 
-**Docato**  
-Full-Stack Software Engineer | 04/2025 - Present
+Full-stack user management system built with **Next.js**, **NestJS**, **PostgreSQL**, **Prisma**, **JWT**, **Swagger** and **Docker**.
 
-- Built full-stack architectures with **Next.js** and **NestJS** for Legal Ops automation workflows.
-- Developed REST APIs with JWT authentication and role-based access control.
-- Built a design system using **Shadcn/UI** and **Tailwind CSS**.
-- Improved performance with lazy loading, code splitting, Prisma ORM, and PostgreSQL optimizations.
-- Documented APIs with Swagger to improve frontend and backend collaboration.
+- Complete frontend + backend application
+- Authentication and protected routes
+- REST API with API documentation
+- Docker Compose setup for local development
 
-**DD Solutions**  
-Front-end Software Engineer | 10/2021 - 03/2025
+### [NestClean](https://github.com/Angel0Gabriel/NestClean)
 
-- Migrated analytics dashboards to a proprietary **React** and **TypeScript** solution.
-- Created automated workflows for image annotation and analysis.
-- Integrated REST APIs for real-time data processing.
-- Configured CI/CD pipelines with Firebase and Vercel.
-- Developed reusable, type-safe React components aligned with the platform's visual identity.
+Modern backend project using **NestJS**, **Prisma**, **PostgreSQL**, **JWT**, **Passport**, **Zod**, **Vitest** and e2e testing.
 
----
+### [NextBlog](https://github.com/Angel0Gabriel/NextBlog)
+
+Content-focused frontend project with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **Contentlayer**, **React Markdown** and **Radix UI**.
+
+### [design-system](https://github.com/Angel0Gabriel/design-system)
+
+Component system exploring reusable UI foundations such as text, headings, buttons, inputs, checkboxes, avatars and multi-step flows.
+
+## Professional Highlights
+
+- Built full-stack architecture with Next.js and NestJS for Legal Ops automation workflows on a platform that processed over **R$1.6B** in financial automations.
+- Created a modular design system with Shadcn/UI and Tailwind CSS, accelerating delivery of new features by **35%**.
+- Improved frontend performance with lazy loading and code splitting, reducing load latency by **45%**.
+- Optimized Prisma/PostgreSQL query structures, reducing report generation time by **40%**.
+- Migrated analytics dashboards from Grafana to a proprietary React/TypeScript system, reducing load times by **40%**.
+- Built an automated image annotation workflow that reduced manual analysis time by **60%**.
 
 ## GitHub Stats
 
-<div align="center">
+<div align="flex">
   <a href="https://github.com/Angel0Gabriel">
-    <img
-      height="160"
-      src="https://github-readme-stats.vercel.app/api?username=Angel0Gabriel&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"
-      alt="Angelo Gabriel's GitHub stats"
-    />
-    <img
-      height="160"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel0Gabriel&layout=compact&langs_count=7&theme=highcontrast"
-      alt="Angelo Gabriel's most used languages"
-    />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Angel0Gabriel&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel0Gabriel&layout=compact&langs_count=7&theme=highcontrast"/>
   </a>
 </div>
 
----
+## Contact
 
-## Technologies
-
-<div align="center">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="NestJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
-### Stack and tools
-
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Shadcn/UI, Styled-components, HTML5, CSS3  
-**Backend:** Node.js, NestJS, REST APIs, Swagger, JWT, RBAC  
-**Databases and ORM:** PostgreSQL, MongoDB, Prisma ORM, TypeORM, Mongoose  
-**Quality and DevOps:** Jest, React Testing Library, Docker, Git, Firebase, Vercel, CI/CD  
-**Methodologies:** Scrum, Kanban, data modeling, and technical documentation
-
----
-
-## Where to find me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/angelocostadev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Angel0Gabriel?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/angel0_gabriel/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:angelobielmoreira@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<div>
+  <a href="https://www.linkedin.com/in/angelocostadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Angel0Gabriel?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="mailto:angelobielmoreira@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
