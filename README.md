@@ -4,7 +4,7 @@
   <strong>Full-stack Software Engineer</strong> from Fortaleza, Brazil, focused on building fast, maintainable web applications with <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Node.js</strong>, <strong>NestJS</strong> and <strong>PostgreSQL</strong>.
 </p>
 
-I have 4+ years of experience across frontend-heavy and full-stack roles, working on analytics dashboards, Legal Ops automation, reusable component systems, REST APIs, authentication, database optimization and CI/CD workflows.
+I have 5+ years of experience across frontend-heavy and full-stack roles, working on analytics dashboards, Legal Ops automation, reusable component systems, REST APIs, authentication, database optimization and CI/CD workflows.
 
 > "The gap between theory and practice is not as big in theory as it is in practice."
 
